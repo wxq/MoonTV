@@ -1,4 +1,4 @@
 name = "moontv"
 compatibility_date = "2025-09-01"  # 确保日期是最新的
 compatibility_flags = ["nodejs_compat"]
-pages_build_output_dir = "dist"  # 根据 MoonTV 的构建输出目录调整
+pages_build_output_dir = ".vercel/output/static"  # 根据 MoonTV 的构建输出目录调整
